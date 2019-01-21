@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#Configurações do Site
+url: "https://flamerexing.github.io"
+title: Vanité - Complexo de Beleza
+description: |
+  Conheça nosso serviços
+
+
+owner: Vanité # Nome da Empresa
+first_published: 2019 
+email: contatovanite@gmail.com
+social:
+  twitter: https://twitter.com/complexovanite
+  github: https://github.com/complextovanite
+  facebook-official: https://www.facebook.com/complexovanite
+
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
